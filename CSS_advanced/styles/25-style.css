@@ -135,6 +135,7 @@ a:active {
 .button:hover {
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
+    color: var(--button-hover-color);
 }
 
 .visually-hidden {
